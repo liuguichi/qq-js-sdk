@@ -1,0 +1,10 @@
+{
+  "name": "qq-js-sdk",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "QQ官方 js-sdk CommonJS 版",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuguichi/qq-js-sdk.git"
+  }
+}
